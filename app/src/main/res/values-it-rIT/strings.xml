@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Calcolatrice BMI</string>
+    <string name="title">Calcolatrice BMI</string>
+    <string name="weigth_label">Il tuo peso in KG</string>
+    <string name="heigth_label">La tua altezza in cm</string>
+    <string name="button_calculate">Calcolare</string>
+    <string name="your_score">Il tuo punteggio</string>
+    <string name="reset">Ripristina</string>
+    <string name="share">Condividere</string>
+    <string name="ideal_state">Congratulations!! Your wight is ideal!!</string>
+    <string name="underweight">sottopeso</string>
+    <string name="normal_weight">Peso normale</string>
+    <string name="over_weight">Obesità di classe I - Sovrappeso</string>
+    <string name="obesity">Obesità di II classe</string>
+    <string name="morbid_obesity">Obesità patologica di classe III</string>
+</resources>
